@@ -1,0 +1,25 @@
+---
+title: {Theme Name}
+author: {Author Name}
+description: A SHORT Description
+download:
+github_profile_url: https://github.com/{Author Name}/
+github_source_url:
+support:
+discord_server:
+demo: https://raw.githack.com
+thumbnail:
+images:
+- name: {Theme Name} Preview
+  image: https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71904333&fbclid=IwAR2visBC8QMkgQeHv7-7LXB67qe_Eyu5unMdCmqqDgpDGWOGrCDKG2EZYxE
+- name: {Theme Name} Preview - {Image Name}
+  image: 
+status:https://www.pixiv.net/member_illust.php?mode=medium&illust_id=71904333&fbclid=IwAR2visBC8QMkgQeHv7-7LXB67qe_Eyu5unMdCmqqDgpDGWOGrCDKG2EZYxE
+auto:
+featured: 
+style: dark
+tags: []
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
+# A full description of your theme. All Markdown is allowed.
